@@ -13,7 +13,8 @@ The scope of Area shall be in Australia, Oceania, North America, and South Ameri
   * Micronesia and the Pacific Trust Territories
   * Venezuela
   * United States
-Also included will be released post-colonial nations within the scope of area to reduce the advantage of the Vanilla colonial powers.
+
+Also included will be released post-colonial nations within the scope of area to reduce the advantage of the Vanilla colonial powers.  Unitary nations like Chile (which is heavily influenced by the structure and political system of France) is to be restricted except where necessary.  Certain exceptions are New Zealand (invited to join Australia as a state), and parts of the Caribbean to remove vanilla nation's colonies.
 
 --- Nation Tags (countries.txt) ---
 
