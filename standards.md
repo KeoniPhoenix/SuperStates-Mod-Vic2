@@ -52,4 +52,7 @@ The names SuperStates and SuperStates Mod and any variants (i.e. "New SuperState
 
 --- Credit ---
 
+Credit SuperStates Mod should be given when parts are used in other projects.
+
+Permission is granted to use the files in other projects.
 
