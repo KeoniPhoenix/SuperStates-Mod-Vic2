@@ -49,3 +49,7 @@ This mod will be available here and other locations to be determined.  As Victor
 --- Mod Name ---
 
 The names SuperStates and SuperStates Mod and any variants (i.e. "New SuperStates Mod") is retained by the mod author, KeoniPhoenix. If the mod is forked or modified into a new project, it must use a new name as to avoid issues with this mod project. If the issue is particularly egregious, official action may be taken.
+
+--- Credit ---
+
+
