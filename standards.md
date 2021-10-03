@@ -32,7 +32,7 @@ Slavery shall be enabled in areas historical to the era and, if applicable, in s
 
 Slavery shall be prohibited in the United States outside of the historical regions and the issue of slavery that was the subject of controversy for the lead up to the American Civil War, shall be handled by events that possibly but not likely legalizes slavery (regions this would apply to are Arizona, New Mexico, Kansas, and Nebraska).
 
-Slavery will be prohibited within all of Canada, Australia, Mexico, Oceania, and in states of the United States where it was historically banned before 1836.  Brazilian and Venezuelean regions will have slavery allowed as it was legal at the time.
+Slavery will be prohibited within all of Canada, Australia, Central American, and Oceania regions where it was historically banned before 1836.  Brazilian and Venezuelean regions will have slavery allowed as it was legal at the time.
 
 --- Provinces ---
 
