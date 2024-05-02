@@ -19,13 +19,15 @@ Also included will be released post-colonial nations within the scope of area to
 ## Nation Tags ##
 *(country_tags.txt)*
 
-The nation tags list should be kept as simple as possible to avoid overburdening the Vic2 engine and to make it easaier to debug.  Vanilla tags are to be used for nations being modded to help in debugging.  As tags in Vic2 must have multiple flags, duplicating nations with more than one tag for the purposes of flag changes is prohibited in Vic2.
+The nation tags list should be kept as simple as possible to avoid overburdening the Vic2 engine and to make it easier to debug.  Vanilla tags are to be used for nations being modded to help in debugging.  As tags in Vic2 must have multiple flags, duplicating nations with more than one tag for the purposes of flag changes is prohibited in Vic2.
 
 ## Upper House Reforms ##
 
 It shall be standard that when certain formable nations are created that their Upper House shall be as equivalent to their real world counterpart as much as possible.  For example, that when the United States is formed, it shall have Two Seats per State in the Upper House.  And Canada shall have Appointed.  In most circumstances these reforms should be locked except for very specific means to change them.
 
-Some nations have Upper House forms that are not represented, they will get the closest approximation that would apply.  
+Some nations have Upper House forms that are not represented, they will get the closest approximation that would apply.
+
+Individual subnational entities as playable nations will have different Upper Houses rules and the ability to switch between them will mostly remain unlocked, however, circumstances may necessitate locking out certain Upper House reforms.  
 
 ## Slavery ##
 
@@ -46,6 +48,8 @@ It is encouraged to use the principle city names but it is allowed to have event
 ## Mod Distribution ##
 
 This mod will be available here and other locations to be determined.  As Victoria II requires manual installation, it is required players are able to understand how to install mods manually.  Support for problems with the mod for installation is at the discretion of the mod author, KeoniPhoenix, and is dependent on proving one has a copy of the game in their Steam Library.  This is a policy to reduce liability towards the publishers of Victoria II, Paradox Interactive.
+
+Should an open source version of Vic2 be released, this mod may be distributed through the channels of that open source project.
 
 ## Mod Name ##
 
