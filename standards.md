@@ -7,7 +7,7 @@ The scope of Area shall be in Australia, Oceania, North America, and South Ameri
   * Australia
   * Brazil
   * Canada
-  * Federal Republic of Central America (Guatamala, El Salvador, Honduras, Costa Rica)
+  * Federal Republic of Central America (Guatamala, El Salvador, Honduras, Nicaragua, Costa Rica)
   * Federation of the West Indies
   * Mexico
   * Micronesia and the Pacific Trust Territories
